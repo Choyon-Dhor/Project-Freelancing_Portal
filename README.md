@@ -66,3 +66,23 @@ applications - Freelancer job applications
 freelancer_profiles - Detailed freelancer information
 
 projects - Active and completed projects
+
+# FreelanceHub - Freelance Marketplace Platform
+
+A comprehensive web application connecting clients with freelance professionals.
+
+## 🚀 Features
+
+- **Dual User Roles**: Separate interfaces for clients and freelancers
+- **Job Management**: Post, browse, search, and filter jobs
+- **Application System**: Submit proposals with bids and timelines
+- **Profile Management**: Detailed profiles with skills and company info
+- **Project Tracking**: Monitor active and completed projects
+- **Responsive Design**: Works seamlessly on all devices
+
+## 📋 Requirements
+
+- PHP 7.0 or higher
+- MySQL 5.6 or higher
+- Apache/Nginx web server
+- XAMPP/WAMP/MAMP for local development
